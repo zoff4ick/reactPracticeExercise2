@@ -1,0 +1,15 @@
+.Input{
+    margin-top: 40px;
+    border: 2px solid #ffcd13;
+    border-radius: 5px;
+    padding: 8px;
+    outline: none;
+}
+
+.Input:hover{
+    border: 2px solid #c800c8;
+}
+
+.Input:focus{
+    border: 2px solid #c800c8;
+}

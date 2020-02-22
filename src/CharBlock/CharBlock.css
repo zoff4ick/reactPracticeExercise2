@@ -1,0 +1,13 @@
+.Char{
+    display: inline-block;
+    border: 1px solid deeppink;
+    width: 8%;
+    height: 100px;
+    margin: 20px;
+    font-size: 50px;
+    font-family: 'Roboto', serif;
+    text-align: center;
+    line-height: 0;
+    color: #45f1fb;
+    text-shadow: 2px 1px deeppink;
+}
